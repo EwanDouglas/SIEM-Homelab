@@ -12,3 +12,7 @@ The setup is very easy, just select "Graphical Install" and go through the insta
 This is where you will decide your desktop environment, which has a large effect in how your desktop will look and feel. I like xfce but I encourage everyone to experiment!
 
 It may take a while to install, for me it was around 10 minutes. This is a good time to grab a snack
+
+Afterwards, you may need to install thevirtualbox guest additions package in order for your system to run correctly. 
+
+An agent is a software program that is installed on a device, such as a server or endpoint, to collect and send data to a centralized system for analysis and monitoring. In the context of Elastic SIEM, an agent is used to collect and forward security-related events from your endpoints to your Elastic SIEM instance.
